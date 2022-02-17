@@ -22,19 +22,19 @@
     "url": "https://drv.nl",
     "icon": "https://favicons.githubusercontent.com/drv.nl",
     "slug": "drv-nl",
-    "status": "down",
-    "uptime": "26.01%",
-    "uptimeDay": "26.01%",
-    "uptimeWeek": "26.01%",
-    "uptimeMonth": "26.01%",
-    "uptimeYear": "26.01%",
-    "time": 2114,
-    "timeDay": 2114,
-    "timeWeek": 2114,
-    "timeMonth": 2114,
-    "timeYear": 2114,
+    "status": "up",
+    "uptime": "25.80%",
+    "uptimeDay": "25.80%",
+    "uptimeWeek": "25.80%",
+    "uptimeMonth": "25.80%",
+    "uptimeYear": "25.80%",
+    "time": 2122,
+    "timeDay": 2122,
+    "timeWeek": 2122,
+    "timeMonth": 2122,
+    "timeYear": 2122,
     "dailyMinutesDown": {
-      "2022-02-17": 320
+      "2022-02-17": 324
     }
   },
   {
