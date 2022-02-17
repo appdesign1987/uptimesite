@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1638,
-    "timeDay": 1638,
-    "timeWeek": 1638,
-    "timeMonth": 1638,
-    "timeYear": 1638,
+    "time": 1626,
+    "timeDay": 1626,
+    "timeWeek": 1626,
+    "timeMonth": 1626,
+    "timeYear": 1626,
     "dailyMinutesDown": {}
   },
   {
@@ -23,18 +23,18 @@
     "icon": "https://favicons.githubusercontent.com/drv.nl",
     "slug": "drv-nl",
     "status": "up",
-    "uptime": "32.20%",
-    "uptimeDay": "32.20%",
-    "uptimeWeek": "32.20%",
-    "uptimeMonth": "32.20%",
-    "uptimeYear": "32.20%",
-    "time": 2116,
-    "timeDay": 2116,
-    "timeWeek": 2116,
-    "timeMonth": 2116,
-    "timeYear": 2116,
+    "uptime": "29.26%",
+    "uptimeDay": "29.26%",
+    "uptimeWeek": "29.26%",
+    "uptimeMonth": "29.26%",
+    "uptimeYear": "29.26%",
+    "time": 2117,
+    "timeDay": 2117,
+    "timeWeek": 2117,
+    "timeMonth": 2117,
+    "timeYear": 2117,
     "dailyMinutesDown": {
-      "2022-02-17": 204
+      "2022-02-17": 234
     }
   },
   {
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 419,
-    "timeDay": 419,
-    "timeWeek": 419,
-    "timeMonth": 419,
-    "timeYear": 419,
+    "time": 405,
+    "timeDay": 405,
+    "timeWeek": 405,
+    "timeMonth": 405,
+    "timeYear": 405,
     "dailyMinutesDown": {}
   }
 ]
