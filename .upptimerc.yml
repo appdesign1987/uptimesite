@@ -9,8 +9,6 @@ sites:
     url: https://drv.nl
   - name: Jeroenvd.nl
     url: https://jeroenvd.nl
-  - name: mail6.nedcomp.nl
-    url: https://mail6.nedcomp.nl
 
   
 status-website:
