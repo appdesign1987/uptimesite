@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1602,
-    "timeDay": 1575,
-    "timeWeek": 1611,
+    "timeDay": 1570,
+    "timeWeek": 1610,
     "timeMonth": 1602,
     "timeYear": 1602,
     "dailyMinutesDown": {}
@@ -29,8 +29,8 @@
     "uptimeMonth": "97.63%",
     "uptimeYear": "97.63%",
     "time": 2290,
-    "timeDay": 2259,
-    "timeWeek": 2286,
+    "timeDay": 2257,
+    "timeWeek": 2285,
     "timeMonth": 2290,
     "timeYear": 2290,
     "dailyMinutesDown": {
@@ -44,18 +44,16 @@
     "icon": "https://favicons.githubusercontent.com/jeroenvd.nl",
     "slug": "jeroenvd-nl",
     "status": "up",
-    "uptime": "99.97%",
-    "uptimeDay": "99.63%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.97%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 186,
     "timeDay": 153,
     "timeWeek": 179,
     "timeMonth": 186,
     "timeYear": 186,
-    "dailyMinutesDown": {
-      "2022-02-28": 5
-    }
+    "dailyMinutesDown": {}
   }
 ]
