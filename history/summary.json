@@ -23,11 +23,11 @@
     "icon": "https://favicons.githubusercontent.com/drv.nl",
     "slug": "drv-nl",
     "status": "up",
-    "uptime": "97.62%",
+    "uptime": "97.63%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "97.62%",
-    "uptimeYear": "97.62%",
+    "uptimeMonth": "97.63%",
+    "uptimeYear": "97.63%",
     "time": 2290,
     "timeDay": 2259,
     "timeWeek": 2286,
@@ -43,9 +43,9 @@
     "url": "https://jeroenvd.nl",
     "icon": "https://favicons.githubusercontent.com/jeroenvd.nl",
     "slug": "jeroenvd-nl",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -54,6 +54,8 @@
     "timeWeek": 179,
     "timeMonth": 186,
     "timeYear": 186,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-02-28": 0
+    }
   }
 ]
