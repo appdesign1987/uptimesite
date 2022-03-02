@@ -7,6 +7,8 @@ sites:
     url: https://www.nedcomp.nl
   - name: drv.nl
     url: https://drv.nl
+  - name: werkenbijdrv.nl
+    url: https://werkenbijdrv.nl
   - name: Jeroenvd.nl
     url: https://jeroenvd.nl
 
