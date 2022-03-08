@@ -30,7 +30,7 @@
     "uptimeYear": "98.58%",
     "time": 2287,
     "timeDay": 2237,
-    "timeWeek": 2269,
+    "timeWeek": 2268,
     "timeMonth": 2287,
     "timeYear": 2287,
     "dailyMinutesDown": {
@@ -45,18 +45,18 @@
     "icon": "https://favicons.githubusercontent.com/werkenbijdrv.nl",
     "slug": "werkenbijdrv-nl",
     "status": "down",
-    "uptime": "98.73%",
-    "uptimeDay": "92.53%",
-    "uptimeWeek": "98.73%",
-    "uptimeMonth": "98.73%",
-    "uptimeYear": "98.73%",
+    "uptime": "98.68%",
+    "uptimeDay": "92.19%",
+    "uptimeWeek": "98.68%",
+    "uptimeMonth": "98.68%",
+    "uptimeYear": "98.68%",
     "time": 1803,
-    "timeDay": 1814,
+    "timeDay": 1816,
     "timeWeek": 1803,
     "timeMonth": 1803,
     "timeYear": 1803,
     "dailyMinutesDown": {
-      "2022-03-08": 108
+      "2022-03-08": 113
     }
   },
   {
