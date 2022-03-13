@@ -66,8 +66,8 @@
     "slug": "jeroenvd-nl",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 179,
@@ -76,7 +76,7 @@
     "timeMonth": 179,
     "timeYear": 179,
     "dailyMinutesDown": {
-      "2022-03-13": 0
+      "2022-03-13": 1
     }
   }
 ]
