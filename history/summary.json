@@ -11,7 +11,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1598,
-    "timeDay": 1651,
+    "timeDay": 1645,
     "timeWeek": 1604,
     "timeMonth": 1598,
     "timeYear": 1598,
@@ -23,13 +23,13 @@
     "icon": "https://favicons.githubusercontent.com/drv.nl",
     "slug": "drv-nl",
     "status": "up",
-    "uptime": "98.86%",
+    "uptime": "98.87%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.76%",
-    "uptimeMonth": "98.86%",
-    "uptimeYear": "98.86%",
+    "uptimeMonth": "98.87%",
+    "uptimeYear": "98.87%",
     "time": 2290,
-    "timeDay": 2341,
+    "timeDay": 2337,
     "timeWeek": 2296,
     "timeMonth": 2290,
     "timeYear": 2290,
@@ -50,11 +50,11 @@
     "uptimeWeek": "98.94%",
     "uptimeMonth": "99.30%",
     "uptimeYear": "99.30%",
-    "time": 1820,
-    "timeDay": 1823,
+    "time": 1819,
+    "timeDay": 1818,
     "timeWeek": 1832,
-    "timeMonth": 1820,
-    "timeYear": 1820,
+    "timeMonth": 1819,
+    "timeYear": 1819,
     "dailyMinutesDown": {
       "2022-03-08": 108
     }
@@ -64,17 +64,19 @@
     "url": "https://jeroenvd.nl",
     "icon": "https://favicons.githubusercontent.com/jeroenvd.nl",
     "slug": "jeroenvd-nl",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 179,
-    "timeDay": 141,
+    "timeDay": 142,
     "timeWeek": 174,
     "timeMonth": 179,
     "timeYear": 179,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-13": 0
+    }
   }
 ]
